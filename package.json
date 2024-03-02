@@ -1,0 +1,23 @@
+{
+  "name": "npm-package-new",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitishpatel404/npm-currency-converter.git"
+  },
+  "author": "\"Nitish Kumar Patel\"",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nitishpatel404/npm-currency-converter/issues"
+  },
+  "homepage": "https://github.com/nitishpatel404/npm-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
